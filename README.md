@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**celine1deepwork/celine1deepwork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a full-stuck Developer
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Flutter/ Dart and Kali Linux 
+- 🌱 I’m currently learning Cyber Security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Contact with me for Collab : 
+#   20COMP1037@isik.edu.tr
+
+- 📫 Here's my Account links & WebSite : 
+-  Linkedin : 
+-  # https://www.linkedin.com/in/celine-ozdemir-51a996166/
+ 
+-  Instagram :
+-   #  https://www.instagram.com/marcelineozd/?hl=tr
+   
+-   WebPage :
+-   # https://about.me/celinedilara
+   ⚡ 
