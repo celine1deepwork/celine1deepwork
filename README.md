@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a full-stuck Developer
+I am a full-stack Developer
 
 - 🔭 I’m currently working on Flutter/ Dart and Kali Linux 
 - 🌱 I’m currently learning Cyber Security.
