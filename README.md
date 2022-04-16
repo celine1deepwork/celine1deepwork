@@ -16,5 +16,5 @@ I am a full-stack Developer
 -    https://www.instagram.com/marcelineozd/?hl=tr
    
 -   WebPage :
--    https://about.me/celinedilara
+-   ...
    ⚡ 
