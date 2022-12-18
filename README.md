@@ -3,7 +3,7 @@
 I am a full-stack Developer
 
 - 🔭 I’m currently working on Flutter/ Dart and Kali Linux 
-- 🌱 I’m currently learning Cyber Security.
+- 🌱 I’m currently learning Swift.
 
 - # 💬 Contact with me for Collab : 
   20COMP1037@isik.edu.tr
