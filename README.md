@@ -27,7 +27,7 @@ I've been learning to code for over 2 years. I started with Java than I kept mov
 
 ## Socials
 <div style="align:left;display:grid;gap:10px">
-  <a href="discordapp.com/users/user746375018396516382" target="_blank" rel="noreferrer" style="display:flex;flex-direction:row;justifity-content:center;gap:10px">
+  <a href="discordapp.com/users/746375018396516382" target="_blank" rel="noreferrer" style="display:flex;flex-direction:row;justifity-content:center;gap:10px">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
     <p style="color:#000;text-decoration: none;">Discord</p>
   </a>
