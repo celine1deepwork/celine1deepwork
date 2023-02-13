@@ -1,12 +1,12 @@
 # Hi there 👋 It's Celine Dilara OZDEMIR
 
- ### IOS Developer Intern / Candidate
+ ## IOS Developer Intern / Candidate
 I've been learning to code for over 2 years. I started with Java than I kept move on with Swift <3 . Also I'm interested in AI.
  
 * 🌏 Citizen of United States & Turkiye
 * 🧠 Currently learning Swift 
 * 💬 Contact me at 20COMP1037@isik.edu.tr
-* 
+
 ### Skills
 
 <p align="left">
@@ -30,10 +30,3 @@ I've been learning to code for over 2 years. I started with Java than I kept mov
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
 </p>
 
-
-
-
--  Instagram :
--    https://www.instagram.com/marcelineozd/?hl=tr
-   
-   ⚡ 
