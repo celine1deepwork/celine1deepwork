@@ -1,7 +1,7 @@
 # Hi there 👋 It's Celine Dilara OZDEMIR
 
  
-<span  style = "color : blue" ; I am a full-stack Developer </span>
+<span style="color:red;font-family:"> hi </span>
 
 - 🔭 I’m currently working on Flutter/ Dart and learning Swift <3
 
