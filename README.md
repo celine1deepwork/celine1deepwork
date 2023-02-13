@@ -1,8 +1,9 @@
 # Hi there 👋 It's Celine Dilara OZDEMIR
 
+ ### IOS Developer Intern / Candidate
+I've been learning to code for over 2 years. I started with Java but I fell in love with Swift. Also I'm interested in AI.
  
-
-- 🔭 I’m currently working on Flutter/ Dart and learning Swift <3
+* 
 
 - # 💬 Contact with me for Collab : 
   20COMP1037@isik.edu.tr
