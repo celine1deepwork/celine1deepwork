@@ -29,9 +29,8 @@ I've been learning to code for over 2 years. I started with Java than I kept mov
   <a href="https://www.instagram.com/marcelineozd/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
 </p>
-#
+
 ### Badges
-#
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=celine1deepwork&theme=radical)](https://github.com/celine1deepwork/github-readme-stats)
 #
 ![celine1deepwork's GitHub stats](https://github-readme-stats.vercel.app/api?username=celine1deepwork&show_icons=true&theme=radical)
