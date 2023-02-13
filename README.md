@@ -29,19 +29,19 @@ I've been learning to code for over 2 years. I started with Java than I kept mov
 <div style="align:left;display:grid;gap:10px">
   <a href="discordapp.com/users/746375018396516382" target="_blank" rel="noreferrer" style="display:flex;flex-direction:row;justifity-content:center;gap:10px">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
-    <p style="color:#000;text-decoration: none;">Discord</p>
+    <span style="color:#000;text-decoration: none;">Discord</span>
   </a>
   <a href="https://www.github.com/celine1deepwork" target="_blank" rel="noreferrer" style="display:flex;flex-direction:row;justifity-content:center;gap:10px"> 
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> 
-    <p style="color:#000;text-decoration: none;">Githup</p>
+    <span style="color:#000;text-decoration: none;">Githup</span>
   </a>
   <a href="https://www.linkedin.com/in/celine-ozdemir-51a996166/" target="_blank" rel="noreferrer" style="display:flex;flex-direction:row;justifity-content:center;gap:10px">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> 
-    <p style="color:#000;text-decoration: none;">Linkedin</p>
+    <span style="color:#000;text-decoration: none;">Linkedin</span>
   </a>
   <a href="https://www.instagram.com/marcelineozd/" target="_blank" rel="noreferrer" style="display:flex;flex-direction:row;justifity-content:center;gap:10px">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
-    <p style="color:#000;text-decoration: none;">Instagram</p>
+    <span style="color:#000;text-decoration: none;">Instagram</span>
   </a>
 </div>
 
