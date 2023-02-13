@@ -1,7 +1,7 @@
 # Hi there 👋 It's Celine Dilara OZDEMIR
 
  
-<span style="color:red"> hi </span>
+<span style="color:blue"> hi </span>
 
 - 🔭 I’m currently working on Flutter/ Dart and learning Swift <3
 
