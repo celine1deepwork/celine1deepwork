@@ -6,7 +6,7 @@ I've been learning to code for over 2 years. I started with Java than I kept mov
 * 🌏 Citizen of United States & Turkiye
 * 🧠 Currently learning Swift 
 * 💬 Contact me at 20COMP1037@isik.edu.tr
-
+##
 ## Skills
 
 <p align="left">
@@ -17,7 +17,7 @@ I've been learning to code for over 2 years. I started with Java than I kept mov
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a> 
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 </p>
-
+##
 ## Socials
 
 <p align="left"> 
@@ -28,7 +28,7 @@ I've been learning to code for over 2 years. I started with Java than I kept mov
   <a href="https://www.instagram.com/marcelineozd/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
 </p>
-
+##
 ## Badges
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=celine1deepwork&theme=radical)](https://github.com/celine1deepwork/github-readme-stats)
