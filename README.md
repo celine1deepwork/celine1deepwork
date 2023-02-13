@@ -6,8 +6,8 @@ I've been learning to code for over 2 years. I started with Java than I kept mov
 * 🌏 Citizen of United States & Turkiye
 * 🧠 Currently learning Swift 
 * 💬 Contact me at 20COMP1037@isik.edu.tr
-#
-### Skills
+
+## Skills
 
 <p align="left">
  
