@@ -7,11 +7,11 @@ I've been learning to code for over 2 years. I started with Java than I kept mov
 * 🧠 Currently learning Swift 
 * 💬 Contact me at 20COMP1037@isik.edu.tr
 
+<a href="https://www.linkedin.com/in/celine-ozdemir-51a996166/" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/linkedin/follow/celinedeepwork?logo=linkedin&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a>
 
-
-# 📫 Here's my Account links & WebSite : 
-#### ![java-original](https://user-images.githubusercontent.com/69770393/218414845-7e7f98c5-1548-4c29-ac6e-8d34466852d0.svg)
-
+- # 📫 Here's my Account links & WebSite : 
 -  Linkedin : 
 -   https://www.linkedin.com/in/celine-ozdemir-51a996166/
  
