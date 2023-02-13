@@ -1,6 +1,7 @@
 # Hi there 👋 It's Celine Dilara OZDEMIR
 
-I am a full-stack Developer
+ 
+<span  style = "color : blue" ; I am a full-stack Developer </span>
 
 - 🔭 I’m currently working on Flutter/ Dart and learning Swift <3
 
