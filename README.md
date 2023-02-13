@@ -8,7 +8,7 @@ I've been learning to code for over 2 years. I started with Java than I kept mov
 * 💬 Contact me at 20COMP1037@isik.edu.tr
 
 <a href="https://www.linkedin.com/in/celine-ozdemir-51a996166/" target="_blank" rel="noreferrer"><img
-src=" "https://img.shields.io/twitter/follow/kaanfkennedy?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917""
+src=" https://img.shields.io/twitter/follow/kaanfkennedy?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
 - # 📫 Here's my Account links & WebSite : 
