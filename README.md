@@ -4,7 +4,7 @@
 I've been learning to code for over 2 years. I started with Java than I kept move on with Swift &#128420; . Also I'm interested in AI.
   * &#127758; Citizen of United States & Turkiye 
   *	&#128213; Currently learning Swift  
-  * &#128172; Contact me at 20COMP1037@isik.edu.tr
+  * &#128172; Contact me at celine@icloud.com
 
 ## Skills
 <div style="align:left;">
