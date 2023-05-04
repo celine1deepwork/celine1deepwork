@@ -8,8 +8,13 @@ I've been learning to code for over 2 years. I started with Java than I kept mov
 
 ## Skills
 <div style="align:left;">
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="display:inline-block;">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
+<div style="align:left;">
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer" style="display:inline-block;">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" />
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="display:inline-block;">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Js" />
 </a>
 <a href="https://dev.java/" target="_blank" rel="noreferrer" style="display:inline-block;">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
