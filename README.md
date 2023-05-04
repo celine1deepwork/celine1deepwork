@@ -7,6 +7,10 @@ I've been learning to code for over 2 years. I started with Java than I kept mov
   * &#128172; Contact me at celine@icloud.com
 
 ## Skills
+
+<div style="align:left;">
+<a href="https://legacy.reactjs.org/docs/getting-started.html" target="_blank" rel="noreferrer" style="display:inline-block;">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
 <div style="align:left;">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="display:inline-block;">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
