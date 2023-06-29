@@ -1,6 +1,6 @@
 # Hi there! 🌻 It's Celine 
   
-## Software Developer / In learning progress..
+## Software Developer /In Progress..
 I've been learning to code for over 2 years. I started with Java than I kept move on with React & Swift. Also I'm interested in AI.
   * &#127758; Citizen of United States & Turkiye 
   *	&#128213; Currently learning Swift  
