@@ -1,6 +1,6 @@
 # Hi there! 🌻 It's Celine 
   
-## Software Developer /In Progress..
+## Software Developer / QA Engineer
 🎓 Senior Computer Science Student | 🌐 Tech Enthusiast
 
 🏛️ Isık University | 📅 Graduating 10.2024
