@@ -1,10 +1,33 @@
 # Hi there! 🌻 It's Celine 
   
 ## Software Developer /In Progress..
-I've been learning to code for over 2 years. I started with Java than I kept move on with React & Swift. Also I'm interested in AI.
-  * &#127758; Citizen of United States & Turkiye 
-  *	&#128213; Currently learning Swift  
-  * &#128172; Contact me at celine@icloud.com
+🎓 Senior Computer Science Student | 🌐 Tech Enthusiast
+
+🏛️ Isık University | 📅 Graduating 10.2024
+
+🌎 Citizen of United States & Turkiye
+
+Passionate about leveraging technology for positive change. Open to networking and collaboration opportunities.
+
+🔍 Cyber Security | Networking | Linux | App Development
+
+🚀 Aspiring tech polymath committed to continuous learning and innovation. Equipped with a strong foundation in Cyber Security, Networking, Linux, and Kali from my freshman year.
+
+💡 Founded "Safe in Isık" project to enhance campus security using Swift. Explored cross-platform development with Flutter and React Native, mastering Dart, JavaScript, HTML, and CSS.
+
+🧠 Interned at ASELSAN in Embedded Systems, mastering Rhapsody API to code a Java plugin. Proficient in complex Data Structures.
+
+✈️ Six-month stint in the United States (Ocean City & San Francisco) for cultural immersion and personal development.
+
+🔥 TEKNOFEST participant with a UAV-based forest fire control project.
+
+💼 Software Developer at Appac Software, crafting UI with React JS. QA Engineer at PictorLabs, specializing in test case development.
+
+🌍 International experience: Internship at GoSocial Development (Romania) as a frontend React Developer with AIESEC.
+
+
+💬 Contact me at celine@icloud.com
+🚩 Github: https://github.com/celine1deepwork
 
 ## Skills
 
