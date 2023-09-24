@@ -26,7 +26,7 @@ Passionate about leveraging technology for positive change. Open to networking a
 🌍 International experience: Internship at GoSocial Development (Romania) as a frontend React Developer with AIESEC.
 
 
-💬 Contact me at celine@icloud.com
+💬 Contact me at marcelineozd@icloud.com
 🚩 Github: https://github.com/celine1deepwork
 
 ## Skills
