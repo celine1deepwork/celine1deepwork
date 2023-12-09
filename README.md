@@ -9,11 +9,7 @@
 
 Passionate about leveraging technology for positive change. Open to networking and collaboration opportunities.
 
-🔍 Cyber Security | Networking | Linux | App Development
-
-🚀 Aspiring tech polymath committed to continuous learning and innovation. Equipped with a strong foundation in Cyber Security, Networking, Linux, and Kali from my freshman year.
-
-💡 Founded "Safe in Isık" project to enhance campus security using Swift. Explored cross-platform development with Flutter and React Native, mastering Dart, JavaScript, HTML, and CSS.
+💡 Founded "Safe in Isık" project to enhance campus security using Swift. Explored cross-platform development React JS, JavaScript, HTML, and CSS.
 
 🧠 Interned at ASELSAN in Embedded Systems, mastering Rhapsody API to code a Java plugin. Proficient in complex Data Structures.
 
@@ -24,7 +20,6 @@ Passionate about leveraging technology for positive change. Open to networking a
 💼 Software Developer at Appac Software, crafting UI with React JS. QA Engineer at PictorLabs, specializing in test case development.
 
 🌍 International experience: Internship at GoSocial Development (Romania) as a frontend React Developer with AIESEC.
-
 
 💬 Contact me at marcelineozd@icloud.com
 🚩 Github: https://github.com/celine1deepwork
