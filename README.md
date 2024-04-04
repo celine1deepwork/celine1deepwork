@@ -1,4 +1,4 @@
-# Hi there! 🌻 It's Celine 
+# Hi there! 👩🏻‍💻 It's Celine 
   
 ## Software Developer / QA Engineer
 🎓 Senior Computer Science Student | 🌐 Tech Enthusiast
